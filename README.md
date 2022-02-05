@@ -1,6 +1,6 @@
 # E-commerce
 
-![e-commerce](assets/images/ecommerce-sc.png)
+![e-commerce](./images/ecommerce-sc.png)
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
